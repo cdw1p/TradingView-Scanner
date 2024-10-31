@@ -1,5 +1,5 @@
 # TradingView Scanner
-This data is retrieved from TradingView Scanner API, Last updated at 2024-10-30T20:09:40.759Z
+This data is retrieved from TradingView Scanner API, Last updated at 2024-10-31T00:41:19.615Z
 
 ## Recomendation
 | Stoch | WR | BBPower | UO | Ichimoku | RSI | HullMA9 |
@@ -34,9 +34,9 @@ This data is retrieved from TradingView Scanner API, Last updated at 2024-10-30T
 ## Technical Indicators
 | RSI | Stoch.K | Stoch.D | CCI20 | ADX | ADX-DI | AO | Mom | MACD | MACD | W.R | HullMA9 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 70.32 | 68.79 | 71.16 | 60.60 | 41.79 | 12.05 | 3001.75 | 972.31 | 1162.74 | 1140.88 | -31.73 | 71805.72 |
+| 68.60 | 68.84 | 70.25 | 60.64 | 42.69 | 11.06 | 2878.11 | 644.43 | 1145.52 | 1147.03 | -35.96 | 71994.43 |
 
 ## EMA & SMA
 | EMA10 | SMA10 | EMA20 | SMA20 | EMA30 | SMA30 | EMA50 | SMA50 | EMA100 | SMA100 | EMA200 | SMA200 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 71680.89 | 72107.99 | 70781.91 | 70552.66 | 70093.79 | 69383.04 | 69210.42 | 68515.25 | 67805.38 | 68002.03 | 65982.76 | 65349.65 |
+| 71808.94 | 72213.35 | 70937.98 | 70787.80 | 70244.72 | 69572.59 | 69337.21 | 68615.49 | 67897.38 | 68077.71 | 66047.17 | 65383.62 |
